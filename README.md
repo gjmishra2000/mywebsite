@@ -1,7 +1,6 @@
 ## mywebsite
 My website here
-
-Testing rebasoe
-
+Testing rebase
+Checking conflict with in GITHUB
 ##Checking Conflict 
 Added some records in local side
